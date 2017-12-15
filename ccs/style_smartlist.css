@@ -153,6 +153,7 @@ div :hover > article{
 
 a {
 	text-decoration: none;
+	color: black;
 
 }
 .speis{
@@ -168,5 +169,13 @@ a {
 	width: 100%;
 	background-color: darkgray;
 	height: 5px;
-	
+
+}
+
+/*leaout*/
+@media screen and (max-width: 800px){
+	.phone{
+		clear: both;
+		width: 97%;
+	}
 }

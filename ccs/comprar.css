@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+#compania{
+	margin-left: 5%;
+}
+
+article{
+	text-align: center;
+}
+
+article h2{
+	clear: both;
+	margin-top: 5%;
+}
+
+
+article ul >li{
+	display: block;
+	margin: 2%;
+}
+article ul li:hover  ul li {
+	display: inline;
+}
+ article ul li ul li {
+	display: none;
+}
+
+#left{
+	width: 30%;
+	height: 500px;
+	float: left;
+	background-color: red;
+}
+
+#compania{
+	width: 30%;
+	float: left;
+}
+
+#right{
+	width: 30%;
+	height: 500px;
+	float: right;
+	background-color: green;
+}
+*/
+td, th{
+		border: 1px solid black;
+		border-radius: 5px;
+		text-align: center;
+		height: 50px;
+		font-size: 20px;
+}
+table{
+		border-radius: 5px;
+
+		width: 90%;
+		margin-left: 5%;
+		margin-top: 2%;
+		margin-bottom: 2%;
+}

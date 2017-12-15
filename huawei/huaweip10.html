@@ -1,0 +1,153 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mobile Test</title>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../ccs/phones.css"/>
+<link rel="icon" type="image/png" href="image/logo/favicon.png">
+</head>
+
+<body>
+	<div id="hearde">
+		<img src="../image/logo.png" alt="test" id="logo">
+		<div id="menu">
+	  		<ul class="nav">
+	  			<li><a href="../index.html">Home</a></li>
+	  			<li><a href="">Marca</a>
+	  				<ul>
+	  					<li><a href="../apple/apple.html">Apple</a></li>
+	  					<li><a href="../samsung/samsung.html">Samsung</a></li>
+	  					<li><a href="../huawei/huawei.html">Huawei</a></li>
+	  					<li><a href="../google/google.html">Google</a></li>
+	  				</ul>
+				<li><a href="../review.html">Review</a></li>
+	  			</li>
+			</ul>
+  		</div>
+	</div>
+	<div class="speis"></div>
+	<div id="main">
+		<div id="sidebar">
+			<table id="table">
+				<caption><h2>Apple</h2></caption>
+  				<tr>
+  				  <td><a href="huaweimate9.html">Huawei Mate9</a></td>
+  				</tr>
+			</table>
+		</div>
+
+	<div class="slideshow-container">
+		<h1>Huawei P10</h1>
+		<div class="mySlides fade">
+		  <div class="numbertext">1 / 3</div>
+		  <img src="img/iphonex1.png" style="width:100%">
+		</div>
+
+		<div class="mySlides fade">
+		  <div class="numbertext">2 / 3</div>
+		  <img src="img/iphonex2.png" style="width:100%">
+		</div>
+
+		<div class="mySlides fade">
+		  <div class="numbertext">3 / 3</div>
+		  <img src="img/iphonex3.png" style="width:100%">
+		</div>
+
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+		<div style="text-align:center">
+		  <span class="dot" onclick="currentSlide(1)"></span>
+		  <span class="dot" onclick="currentSlide(2)"></span>
+		  <span class="dot" onclick="currentSlide(3)"></span>
+		</div>
+		</div>
+		<br>
+
+		<script>
+		var slideIndex = 1;
+		showSlides(slideIndex);
+
+		function plusSlides(n) {
+		  showSlides(slideIndex += n);
+		}
+
+		function currentSlide(n) {
+		  showSlides(slideIndex = n);
+		}
+
+		function showSlides(n) {
+		  var i;
+		  var slides = document.getElementsByClassName("mySlides");
+		  var dots = document.getElementsByClassName("dot");
+		  if (n > slides.length) {slideIndex = 1}
+		  if (n < 1) {slideIndex = slides.length}
+		  for (i = 0; i < slides.length; i++) {
+		      slides[i].style.display = "none";
+		  }
+		  for (i = 0; i < dots.length; i++) {
+		      dots[i].className = dots[i].className.replace(" active", "");
+		  }
+		  slides[slideIndex-1].style.display = "block";
+		  dots[slideIndex-1].className += " active";
+		}
+		</script>
+
+
+
+		<div id="content">
+			<h2>Cracterísticas:</h2>
+			<ul>
+				<li><strong>Todo Pantalla</strong>
+					<ul>
+						<li>Pantalla Super Retina El iPhone X es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.</li>
+						<li>Tecnología innovadora Hemos usado nuevas técnicas para ampliar la pantalla hasta los extremos. Su diseño diáfano se ajusta a los bordes redondeados con gran precisión.</li>
+						<li>OLED diseñado para el iPhone X La primera pantalla OLED que está a la altura de las exigencias del iPhone, con colores deslumbrantes, negros auténticos, un brillo espectacular y un contraste de 1.000.000:1.</li>
+						<li>Cámara TrueDepth En un espacio mínimo cabe la tecnología más sofisticada que puedas imaginar, incluidas las cámaras y los sensores que utiliza Face ID.</li>
+						<li>Nuevo diseño El vidrio más resistente jamás usado en un smartphone, tanto en la pantalla como en la parte posterior. Acero inoxidable de calidad quirúrgica. Carga inalámbrica. Y resistencia al agua y al polvo.</li>
+						<li>Gestos naturales Navega de forma intuitiva con los gestos que ya conoces. Y olvídate del botón: con deslizar el dedo, vuelves a la pantalla de inicio desde donde estés.</li>
+						<li>Autenticación segura Ahora tu contraseña es tu cara. Face ID es una nueva forma de desbloquear el iPhone, identificarte y pagar con total seguridad.</li>
+						<li>Mapeo facial Face ID se sirve de la cámara TrueDepth para proyectar y analizar más de 30.000 puntos invisibles y así crear un mapa de profundidad detallado de tu cara. Configúralo, es pan comido.</li>
+						<li>Apple Pay Face ID es tan seguro que puedes usarlo con Apple Pay. Una sola mirada y ya has pagado.</li>
+					</ul>
+				</li>
+				<li><strong>Cámara frontal. Enfocada al futuro.</strong>
+					<ul>
+						<li>Selfies con el modo Retrato Hazte selfies con un primer plano supernítido y fondos perfectamente difuminados. A ver esa sonrisa.</li>
+						<li>Iluminación de Retratos La nueva Iluminación de Retratos consigue efectos de luz con calidad profesional.</li>
+						<li>Animoji La cámara TrueDepth analiza más de 50 movimientos musculares para reflejar tus expresiones en 12 divertidos Animoji. Saca el alien que llevas dentro. O el cerdito. O el robot.</li>
+						<li>Cámara dual de 12 Mpx El arte de la fotografía. Simplificado.</li>
+						<li>Cámaras mejoradas Sensor de 12 Mpx más grande y rápido. Nuevo filtro de color. Píxeles más profundos. Cámara con teleobjetivo y estabilización óptica de imagen. Ojo ahí.</li>
+						<li>Iluminación de Retratos Las cámaras con detección de profundidad y el mapeo facial ultrapreciso consiguen efectos de iluminación de estudio.</li>
+						<li>Doble OIS Dos cámaras traseras con estabilización óptica de imagen (OIS) y objetivos rápidos para hacer fotos y vídeos impresionantes. Aunque haya poca luz</li>
+						<li>Zoom óptico El gran angular y el teleobjetivo del iPhone X tienen un zoom óptico y otro digital de hasta x10 para fotos y x6 para vídeos. Acércate más. Y más.</li>
+					</ul>
+				</li>
+				<li><strong>A11 Bionic Superinteligencia.</strong>
+					<ul>
+						<li>Motor neuronal Presentamos el A11 Bionic, el chip más inteligente y con más potencia de todos los smartphones. Su motor neuronal es capaz de realizar hasta 600.000 millones de operaciones por segundo.</li>
+						<li>CPU más rápida Los cuatro núcleos de eficiencia de la nueva CPU son hasta un 70 % más rápidos que en el chip A10 Fusion. Y los dos núcleos de rendimiento son hasta un 25 % más veloces. Brutal.</li>
+						<li>Reconocimiento adaptativo El aprendizaje automático permite a Face ID adaptarse a tus cambios de aspecto conforme pasa el tiempo.</li>
+						<li>Potencia eficiente El controlador de rendimiento de segunda generación y el diseño a medida de la batería te dan hasta dos horas más de autonomía entre cargas respecto al iPhone 7.5</li>
+						<li>GPU diseñada por Apple La nueva GPU de tres núcleos desarrollada por Apple es hasta un 30 % más rápida que la del chip A10 Fusion.</li>
+						<li>Realidad aumentada El chip A11 Bionic te permite disfrutar de increíbles apps y juegos de realidad aumentada. Acuérdate de pestañear</li>
+					</ul>
+				</li>
+				<li><strong>Carga inalámbrica Carga inalámbrica para un mundo sin cables.</strong>
+					<ul>
+						<li>Carga inalámbrica Adiós a la carga con cable. El iPhone X ha nacido para un futuro inalámbrico.</li>
+						<li>Un mundo sin cables Un iPhone compatible con las estaciones y bases de carga inalámbrica de hoteles, cafeterías y aeropuertos de todo el mundo.</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	</div>
+
+	<div class="speis"></div>
+	<div id="footer">
+		<h2>Copyright &copy; mtest.com</h2>
+	</div>
+</body>
+</html>

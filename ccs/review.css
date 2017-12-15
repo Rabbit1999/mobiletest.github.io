@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#sidebar{
+	position: fixed;
+	margin-top: 4%;
+}
+
+#content{
+	margin-top: 2%; 
+}
+
+iframe{
+	margin-top: 2%;
+	margin-left: 2%;
+	border-radius: 10px;
+}
+
+#content div h2{
+	margin-left: 2%;
+	margin-top: 4%;
+}
+
+iframe{
+	float: left;
+}
+
+.video > h2{
+	padding-left: 350px;
+	font-size: 14px;
+}
+
+@media screen and (max-width: 800px){
+	.video > h2 {
+    	padding-left: 5%;
+		padding-top: 2%;
+		clear: both;
+	}	
+}
