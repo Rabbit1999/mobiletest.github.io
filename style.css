@@ -228,7 +228,7 @@ a {
 	height: 2px;
 
 }
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 800px){
 	#table{
 		display: none;
 	}
@@ -239,7 +239,7 @@ a {
 		width: 100%;
 	}
 	#content{
-		width: 1080%;
+		width: 100%;
 	}
 	.news_rigth{
 		clear: both;
