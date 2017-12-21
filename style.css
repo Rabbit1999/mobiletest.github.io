@@ -61,11 +61,12 @@ ul{
 	background-color:#686868;
 	color:#fff;
 	text-decoration:none;
-	padding:12px 25px;
+	padding:10px 25px;
 	padding-left: 25px;
 	height: 16px;
 	font-size: 17px;
 	display:block;
+	padding-bottom: 14px;
 }
 
 .nav li a:hover {
