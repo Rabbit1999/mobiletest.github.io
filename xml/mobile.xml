@@ -38,6 +38,22 @@
     <pubDate><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></pubDate>
     <enclosure url="https://rabbit1999.github.io/apple/img/iphone8plus.jpg" length="25" type="image/jpeg" />
   </item>
+  <item>
+    <title><![CDATA[Samsung s8]]></title>
+    <link><![CDATA[https://rabbit1999.github.io/samsung/samsungs8.html]]></link>
+    <dc:creator><![CDATA[Zehao Chen]]></dc:creator>
+    <description><![CDATA[El Samsung s8 plus es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.]]></description>
+    <pubDate><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></pubDate>
+    <enclosure url="https://rabbit1999.github.io/apple/samsungs8.jpg" length="25" type="image/jpeg" />
+  </item>
+  <item>
+    <title><![CDATA[Huawei P10]]></title>
+    <link><![CDATA[https://rabbit1999.github.io/huawei/huaweip10.html]]></link>
+    <dc:creator><![CDATA[Zehao Chen]]></dc:creator>
+    <description><![CDATA[El Samsung s8 plus es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.]]></description>
+    <pubDate><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></pubDate>
+    <enclosure url="https://rabbit1999.github.io/huawei/huaweip10.jpg" length="25" type="image/jpeg" />
+  </item>
 
 </channel>
 </rss>
