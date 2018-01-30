@@ -176,6 +176,12 @@ ul{
 	background-color:#f2f4f6; /*tmp*/
 	padding-bottom: 5%;
 }
+.rss{
+	float: left;
+	width: 19%;
+	margin-left: -18%;
+	margin-top: 15%;
+}
 #table{
 	float: left;
 	position: relative;

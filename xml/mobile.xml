@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title><![CDATA[Mobile Test]]></title>
+  <link><![CDATA[https://rabbit1999.github.io/]]></link>
+  <description><![CDATA[Review i proves de telefon Mobile amb el característiques etc]]></description>
+  <lastBuildDate>Tue, 30 Jan 2018 13:05:37 +0100</lastBuildDate>
+  <pubDate>Tue, 30 Jan 2018 13:05:37 +0100</pubDate>
+  <language>es</language>
+  <copyright><![CDATA[Copyright 2018,Mobile Test]]></copyright>
+  <ttl>5</ttl>
+  <image>
+      <url>https://rabbit1999.github.io/image/logo/mobile_test.png</url>
+      <title>Mobile Test</title>
+      <link>https://rabbit1999.github.io/</link>
+  </image>
+  <item>
+    <title><![CDATA[Iphone X]]></title>
+    <link><![CDATA[https://rabbit1999.github.io/apple/iphonex.html]]></link>
+    <dc:creator><![CDATA[Zehao Chen]]></dc:creator>
+    <description><![CDATA[El iPhone X es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.]]></description>
+    <pubDate><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></pubDate>
+    <enclosure url="https://rabbit1999.github.io/apple/img/iphonex.jpg" length="25" type="image/jpeg" />
+  </item>
+  <item>
+    <title><![CDATA[Iphone 8]]></title>
+    <link><![CDATA[https://rabbit1999.github.io/apple/iphone8.html]]></link>
+    <dc:creator><![CDATA[Zehao Chen]]></dc:creator>
+    <description><![CDATA[El iPhone 8 es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.]]></description>
+    <pubDate><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></pubDate>
+    <enclosure url="https://rabbit1999.github.io/apple/img/iphone8.jpg" length="25" type="image/jpeg" />
+  </item>
+  <item>
+    <title><![CDATA[Iphone 8 Plus]]></title>
+    <link><![CDATA[https://rabbit1999.github.io/apple/iphone8plus.html]]></link>
+    <dc:creator><![CDATA[Zehao Chen]]></dc:creator>
+    <description><![CDATA[El iPhone 8 plus es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.]]></description>
+    <pubDate><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></pubDate>
+    <enclosure url="https://rabbit1999.github.io/apple/img/iphone8plus.jpg" length="25" type="image/jpeg" />
+  </item>
+
+</channel>
+</rss>
