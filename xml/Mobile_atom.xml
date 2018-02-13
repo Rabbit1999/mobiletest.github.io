@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Mobile Test]]></title>
+  <updated>2018-02-13 12:20:37 +0100</updated>
+  <id><![CDATA[https://rabbit1999.github.io/]]></id>
+  <link><![CDATA[https://rabbit1999.github.io/]]></link>
+  <author>
+    <name><![CDATA[ZehaoChen]]></name>
+  </author>
+  <logo>https://rabbit1999.github.io/image/logo/mobile_test.png</logo>
+  <rights><![CDATA[Copyright 2018,Mobile Test]]></rights>
+
+  <entry>
+    <id><![CDATA[https://rabbit1999.github.io/apple/iphonex.html]]></id>
+    <title><![CDATA[Iphone X]]></title>
+    <updated><![CDATA[Mon, 29 Jan 2018 12:19:28 +0100]]></updated>
+    <author>
+        <name>Zehao</name>
+    </author>
+    <link rel="alternate" href="/apple/iphonex.html"/>
+    <summary><![CDATA[El iPhone X es sinónimo de pantalla. Cuando lo tengas en la mano, la nueva Super Retina de 5,8 pulgadas será la protagonista absoluta.]]></summary>
+  </entry>
+
+</feed>
